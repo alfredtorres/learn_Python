@@ -9,4 +9,5 @@ sys.argv[]表示是输入参数的list  结合具体例子说明
 ```sys.argv[0]```即表示 ```test.py```  
 ```sys.argv[1]```即表示 ```para1```  
 ```sys.argv[2]```即表示 ```para2```  
-假如想获取所有的输入，用```sys.argv[1:]```即可
+假如想获取所有的输入，用```sys.argv[1:]```即可    
+参考链接：[Python中 sys.argv[]的用法简明解释](https://www.cnblogs.com/aland-1415/p/6613449.html)
