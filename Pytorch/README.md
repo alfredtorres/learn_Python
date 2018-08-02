@@ -3,8 +3,9 @@
 ### 1 多层全连接神经网络
 + [线性回归](https://github.com/alfredtorres/learn_Python/blob/master/Pytorch/LinearRregression.py)
 <div align="center">
-<img src="https://github.com/alfredtorres/learn_Python/blob/master/Pytorch/images/linear%20regression.png" >
+<img src="https://github.com/alfredtorres/learn_Python/blob/master/Pytorch/images/linear%20regression.png">
 </div>
+
 + [多项式线性回归](https://github.com/alfredtorres/learn_Python/blob/master/Pytorch/PolyRregreesion.py)
 
 + [分类问题-逻辑回归](https://github.com/alfredtorres/learn_Python/blob/master/Pytorch/LogisticRegression.py)
