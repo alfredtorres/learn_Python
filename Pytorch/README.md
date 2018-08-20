@@ -22,7 +22,7 @@
    * 3层全连接网络+RENLU+BN  `Test Loss:0.063228, Acc0.980200`
 --------------
 ### 2 卷积神经网络
-1. 4层卷积神经网络
+1. [4层卷积神经网络](https://github.com/alfredtorres/learn_Python/blob/master/Pytorch/CNN_mnist.py)  
 mnist训练结果，准确率99.37%
 ```
 epoch: 1, loss: 0.469514
